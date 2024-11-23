@@ -1,3 +1,5 @@
 Bienvenue dans les Modpack News !
 
 (Le contenu de cette endroit est modifié à distance)
+
+- Suppression du mod Aether (incompatibilité)

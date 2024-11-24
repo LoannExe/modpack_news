@@ -1,1 +1,1 @@
-- Ajouts de nouvelles origines (du mod Origins) et refonte du menu de sélection.
+- Serveur en ligne

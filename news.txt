@@ -1,1 +1,1 @@
-- **[24/11/2024]** Refonte du menu, suppression du mod Aether et customisation du mod Origin (nouvelles origines et menu)\ntest
+- **[24/11/24]** Suppression du mod AETHER

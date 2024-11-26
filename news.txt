@@ -1,1 +1,1 @@
-- Ajouts du mod **FTB Chunks**
+- Ajouts des mods **FTB Chunks**, **flib**, **sophisticatedcore** et **Xaero's Minimap**

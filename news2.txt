@@ -1,1 +1,1 @@
-- Serveur en ligne (enfin mrc benji jtm)
+- Possibilité de créer une team et de claim une zone.

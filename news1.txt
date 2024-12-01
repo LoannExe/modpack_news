@@ -1,1 +1,1 @@
-- Ajout des commandes **/rtp**, **/tpa**, **/tpahere** et **/back** !
+- Beaucoup d'**optimisations**
